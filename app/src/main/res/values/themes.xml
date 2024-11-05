@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SimpleCalculator" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#5E2424</item>
+        <item name="colorPrimaryDark">#5E2424</item>
+        <item name="colorAccent">#5E2424</item>
+    </style>
+</resources>
